@@ -48,8 +48,9 @@ pip3 install pyqt5
 pip3 install plotly
 pip3 install requests
 pip3 install opencv-python
-sudo apt-get install tesseract-ocr
+sudo apt update
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
 sudo apt-get install python3-pypdf2
 printf "\n\n\n\n\n\n\n\nDONE. HAVE A GOOD DAY )\n"
 printf "####################\n"
-
