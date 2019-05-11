@@ -48,9 +48,12 @@ pip3 install pyqt5
 pip3 install plotly
 pip3 install requests
 pip3 install opencv-python
+pip3 install textract
+pip3 install google-api-python-client
 sudo apt update
 sudo apt install tesseract-ocr
 sudo apt install libtesseract-dev
 sudo apt-get install python3-pypdf2
+python3 -m pip install pdfminer.six
 printf "\n\n\n\n\n\n\n\nDONE. HAVE A GOOD DAY )\n"
 printf "####################\n"
